@@ -1,2 +1,5 @@
 # cafe_restaurant_web
-A basic web for a cafe/restaurant.
+A basic web idea for a cafe/restaurant.
+
+# Preview
+https://sapkotadecafe.netlify.app/
